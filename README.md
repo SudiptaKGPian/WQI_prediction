@@ -3,7 +3,7 @@ Classification based machine learning models for prediction of ground water qual
 
 ## Overview:
 
-Keeping track of the water quality is of utmost importance because water is the most resource for survival. Hence, the quality of water, especially the groundwater, has a direct impact on almost any domain starting from health, agriculture, food/dairy, industry and economy. Therefore, in this project, I have used supervised machine algorithms to build predictive classification models. The major motive was to do a comparative analysis of the few most widely used algorithms on the target data of groundwater. Also, to find out the top 6 parameters that are highly linked with the water quality measurement so that this can reduce the experimental burden of calculation of multiple parameters.
+Keeping track of the water quality is of utmost importance because water is the most important resource for survival. Hence, the quality of water, especially the groundwater, has a direct impact on almost any domain starting from health, agriculture, food/dairy, industry and economy. Therefore, in this project, I have used supervised machine algorithms to build predictive classification models. The major motive was to do a comparative analysis of the few most widely used algorithms on the target data of groundwater. Also, to find out the top 6 parameters that are highly linked with the water quality measurement so that this can reduce the experimental burden of calculation of multiple parameters.
 
 The dataset of experimentally collected samples were collected from publicly distributed data on the Government website. The cleaned dataset consisting of 2265 samples was used as the starting dataset for predictions. 
 
